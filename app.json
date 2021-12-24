@@ -1,7 +1,7 @@
 {
-    "name": "VCPlayerBot",
+    "name": "VidCall",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/subinps/VCPlayerBot",
+    "repository": "https://github.com/poocong/VidCall",
     "stack": "container",
     "keywords": [
       "telegram",
